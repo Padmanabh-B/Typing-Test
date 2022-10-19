@@ -11,8 +11,8 @@
 
 
 This is the project based on the idea of `Typing Test`. it is completely build using core `HTML` `CSS` and `Javascript`
-In this game certain time is gin to complete the word typing on typing speed the score will be incremented.
-on th basis on difficulty level the timing is reduced to speed up the typing.
+In this game certain time is given to complete the word typing on typing speed the score will be incremented.
+on the basis on difficulty level the timing is reduced to speed up the typing.
 
 
 ## My Project Looks Like :
@@ -35,6 +35,5 @@ on th basis on difficulty level the timing is reduced to speed up the typing.
 <img align="center"  width="24px" src="./readme_assets/findcoder.png" /> [Findcoder](https://www.findcoder.io/u/padmanabh_b)
 
 
-
-
-# Deployed Link
+## Deployed Link
+[Fast Typing WebApp](https://paddu-speed-typing-test.netlify.app/)
